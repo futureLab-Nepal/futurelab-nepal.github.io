@@ -5,7 +5,7 @@ layout: post
 #Author
 author: Sanam Shakya
 date: 2020-05-10 14:30:05 +0545
-categories: [Embedded Linux, PetaLinux]
+categories: [Embedded Linux]
 tags: [PetaLinux]
 ---
 
