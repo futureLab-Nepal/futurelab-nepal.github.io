@@ -5,6 +5,8 @@ layout: post
 #Author
 author: Sanam Shakya
 date: 2020-05-10 14:30:05 +0545
+categories: [Embedded Linux, PetaLinux]
+tags: [PetaLinux]
 ---
 
 In this post, you will see the instruction for generating embedded linux project using Petalinux.
