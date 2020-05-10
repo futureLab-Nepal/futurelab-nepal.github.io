@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              FutureLab Nepal
+email:              futurelab.nepal@gmail.com
+description:        Where Learning Happens
+author:             FutureLab Nepal
 baseurl:            ""
 url:                ""
 
 # Social Profiles
 twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+github_username:    futurelab-nepal
+facebook_username:  futurelab.nepal
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
