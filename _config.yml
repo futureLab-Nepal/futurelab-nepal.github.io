@@ -23,5 +23,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
-source 'https://rubygems.org'
-gem 'github-pages'
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
