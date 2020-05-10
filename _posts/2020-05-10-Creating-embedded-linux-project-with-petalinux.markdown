@@ -7,6 +7,8 @@ author: Sanam Shakya
 date: 2020-05-10 14:30:05 +0545
 ---
 
+In this post, you will see the instruction for generating embedded linux project using Petalinux.
+
 - Installation of development tools Vivado and PetaLinux 2019.2 version
 - Understand the Architecture of Zynq MPSoC(Multi Processor System On Chip) and role of various toolchain
 - Implementing various subtasks using PetaLinux as guided by PetaLinux Tool Reference Guide UG 1144
